@@ -251,7 +251,7 @@ html,body{
     }
 }
 
-@media only screen and (min-width: 582px) and (min-height: 891px){
+@media only screen and (min-width: 471px) and (min-height: 1019px){
     p,ul,h3,a{
         font-family: Moonglade;
     }
